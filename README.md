@@ -97,9 +97,9 @@ Here is the preview of the dashboard.
 ![Presence Report](https://github.com/SAGEKING23/HR-DATA-ANALYSIS-for-Atliq-Technologies/assets/164085810/4ff4eab9-f4e5-46b0-952d-3b7d845a0c36)
 
 
-Use this link to access the dashboard in powerBI. You must copy this link and open a new tab on your browser, then paste it. https://drive.google.com/file/d/109kLmzmA2in_r0dpSY_NlQ-khKKnL_uI/view?usp=drive_link
+Click the link below to download the dashboard and access in PowerBI. You must copy the link or click to open on your browser. https://drive.google.com/file/d/109kLmzmA2in_r0dpSY_NlQ-khKKnL_uI/view?usp=drive_link
 
-You might need to install powerBI desktop on your device first in order to access the file. You can follow this link to download PowerBI - https://powerbi.microsoft.com/en-us/downloads/
+You might need to install PowerBI desktop on your device first in order to access the file. You can follow this link to download PowerBI - https://powerbi.microsoft.com/en-us/downloads/
 
 
 ## Challenges and milestone
