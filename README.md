@@ -6,10 +6,10 @@ This project aims to analyze the attendance data of employees at Atliq Technolog
 1. Project Description
 2. Data Source
 3. Requirements
-4. Architecture Diagram
-5. Technologies used
-6. Methods
-7. Results
+4. Technologies used
+5. Methods
+6. Results
+7. Challenges and Milestones
 
 ## Data Sources
 The attendance data was provided in an Excel file format. (Paste Link) Access as an editor can be granted upon request.
