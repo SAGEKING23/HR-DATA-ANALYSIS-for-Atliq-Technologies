@@ -107,7 +107,7 @@ You might need to install PowerBI desktop on your device first in order to acces
 Completing the PowerBI dashboard wasn't as challenging as dealing with the data from the excel sheet. 
 This was my first time using PowerBI, and having other projects to complete from my FRONTEND and BACKEND Development, and DIGITAL MARKETING courses (By DIGITAL AFRICA/Talent4Startups) reduced the amount of time i could've taken to complete this project.
 
-Everything else was smooth sailng as i had previous insights from using multiple platforms and applications for compliling data, docs, presentations.
+Everything else was smooth sailing as i had previous insights from using multiple platforms and applications for compliling data, docs, presentations which are similar in use.
 
 ### PowerBI is an intuitive platform for data visualizations and ill keep on advancing my skills on it.
 
